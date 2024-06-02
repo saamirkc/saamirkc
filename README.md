@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/
 samir-k-c-95778020a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="
 samir-k-c-95778020a" height="30" width="40" /></a>
-<a href="https://fb.com/samir karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir karki" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100024933760215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100024933760215" height="30" width="40" /></a>
 <a href="https://instagram.com/karki_samir_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karki_samir_7" height="30" width="40" /></a>
 </p>
 

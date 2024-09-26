@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samir.kc.a20@gmail.com**
   
-- 👨‍💻 [View my portfolio](https://saamirkc.github.io/personalportfolio/)
+<!-- - 👨‍💻 [View my portfolio](https://saamirkc.github.io/personalportfolio/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

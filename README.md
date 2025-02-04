@@ -8,7 +8,7 @@
 I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development**, with a keen interest in **Machine Learning** and **Cloud Technologies**.  
 
 🌱 **Currently Learning**: Machine Learning  
-💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, Docker, Kubernetes  
+💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, Docker  
 💬 **Ask Me About**: Backend Development, REST APIs, Java, or Angular!  
 📫 **Reach Me At**: [📩 samir.kc.a20@gmail.com](mailto:samir.kc.a20@gmail.com)  
 

@@ -102,5 +102,5 @@ I'm always open to discussing new opportunities, sharing ideas, or learning abou
 
 <h2 align="center" style="color:#FF5733;">☕ Java Enthusiast | 🚀 Full-Stack Dev</h2>
 <p align="center" style="color:#8B4513;">
-  <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong> - Cory House  
+  
 </p>

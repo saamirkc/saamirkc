@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 🎯 **Passionate about building scalable and high-performance systems!**  
-I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development**, with a keen interest in **Machine Learning** and **Cloud Technologies**.  
+I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development**, with a keen interest in **Machine Learning**.  
 
 🌱 **Currently Learning**: Machine Learning  
 💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, Docker  
@@ -16,7 +16,7 @@ I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development*
 
 ## 🌱 A Little More About Me
 
-I believe in building **scalable, high-performance solutions** that solve real-world problems. With experience in both backend and frontend development, I thrive in creating **robust systems** using **Spring Boot**, **Angular**, and **cloud technologies**. I’ve had the pleasure of working on various **full-stack projects** with a focus on **RESTful APIs** and **user-centric applications**.  
+I believe in building **scalable, high-performance solutions** that solve real-world problems. With experience in both backend and frontend development, I thrive in creating **robust systems** using **Spring Boot** and **Angular**. I’ve had the pleasure of working on various **full-stack projects** with a focus on **RESTful APIs** and **user-centric applications**.  
 
 ---
 

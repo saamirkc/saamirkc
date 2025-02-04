@@ -49,7 +49,6 @@ I believe in building **scalable, high-performance solutions** that solve real-w
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />

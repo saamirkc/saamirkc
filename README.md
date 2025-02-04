@@ -77,7 +77,14 @@ A fully-functional online store with **Khalti integration**, using **Spring Boot
 I enjoy solving coding challenges and contributing to open-source projects!  
 
 ---
+## 📈 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saamirkc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saamirkc&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 ## 💬 Let's Talk!
 
 I'm always open to discussing new opportunities, sharing ideas, or learning about the latest trends in **Java development**,and **SpringBoot**. Feel free to reach out, and let's build something amazing together! 🚀

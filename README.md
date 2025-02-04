@@ -11,7 +11,12 @@ I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development*
 💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, Docker, Kubernetes  
 💬 **Ask Me About**: Backend Development, REST APIs, Java, or Angular!  
 📫 **Reach Me At**: [📩 samir.kc.a20@gmail.com](mailto:samir.kc.a20@gmail.com)  
-⚡ **Fun Fact**: I enjoy solving coding challenges and contributing to open-source projects!  
+
+---
+
+## 🌱 A Little More About Me
+
+I believe in building **scalable, high-performance solutions** that solve real-world problems. With experience in both backend and frontend development, I thrive in creating **robust systems** using **Spring Boot**, **Angular**, and **cloud technologies**. I’ve had the pleasure of working on various **full-stack projects** with a focus on **RESTful APIs** and **user-centric applications**.  
 
 ---
 
@@ -52,17 +57,30 @@ I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development*
 
 ---
 
-## 📈 GitHub Stats  
+## 🏆 Notable Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saamirkc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saamirkc&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### [Quiz Web Application](#)
+An interactive quiz platform built with **Spring Boot** and **Angular**, featuring secure **JWT authentication** and real-time quizzes.
+
+### [Online Bookstore](#)
+A fully-functional online store with **Khalti integration**, using **Spring Boot** for backend and **Angular** for frontend, with **PostgreSql** integration.
 
 ---
 
-## 🌟 Let's Connect!  
-💡 Open to collaborations on exciting projects or discussing tech trends! Let’s connect and build something amazing together. 🚀  
+
+## 📚 Java Quote of the Day  
+<em>“Java is to JavaScript what car is to Carpet.”</em> - Chris Heilmann
+
+---
+
+## ⚡ **Fun Fact**
+I enjoy solving coding challenges and contributing to open-source projects!  
+
+---
+
+## 💬 Let's Talk!
+
+I'm always open to discussing new opportunities, sharing ideas, or learning about the latest trends in **Java development**,and **SpringBoot**. Feel free to reach out, and let's build something amazing together! 🚀
 
 <p align="center">
   <a href="https://linkedin.com/in/samir-k-c-95778020a" target="_blank">
@@ -71,4 +89,11 @@ I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development*
   <a href="mailto:samir.kc.a20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+
+<h2 align="center" style="color:#FF5733;">☕ Java Enthusiast | 🚀 Full-Stack Dev</h2>
+<p align="center" style="color:#8B4513;">
+  <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong> - Cory House  
 </p>

@@ -65,13 +65,47 @@ I believe in building **scalable, high-performance solutions** that solve real-w
 
 ---
 
+
+
 ## 🏆 Notable Projects
 
-### [Quiz Web Application](#)
-An interactive quiz platform built with **Spring Boot** and **Angular**, featuring secure **JWT authentication** and real-time quizzes.
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Online%20Bookstore-%230077B5.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Online Bookstore" />
+  </a>
+</p>
 
-### [Online Bookstore](#)
-A fully-functional online store with **Khalti integration**, using **Spring Boot** for backend and **Angular** for frontend, with **PostgreSql** integration.
+
+
+### 📚 [Online Book Store](#)
+An e-commerce platform for buying books, featuring seamless communication between frontend and backend.
+
+![Online Book Store](https://via.placeholder.com/600x300/00308F/ffffff?text=Online+Book+Store)
+
+
+**Key Features**:
+- **RESTful APIs** for frontend-backend communication.
+- **Spring Security** for secure user authentication.
+- **MySQL** for managing data.
+- **Khalti Payment** for secure transactions.
+---
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Quiz%20Web%20Application-%23FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Quiz Web Application" />
+  </a>
+</p>
+
+### 📝 [Quiz Web Application](#)
+A dynamic and interactive quiz platform for real-time quiz sessions and secure user management.
+
+![Quiz Web Application](https://via.placeholder.com/600x300/00308F/ffffff?text=Quiz+Web+Application)
+
+**Key Features**:
+- **JWT Authentication** for secure user management and session control.
+- Dynamic UI components for engaging quiz experiences.
+- **RESTful APIs** enabling smooth communication between frontend and backend.
+
 
 ---
 

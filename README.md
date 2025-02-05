@@ -119,6 +119,7 @@ A dynamic and interactive quiz platform for real-time quiz sessions and secure u
 I enjoy solving coding challenges and contributing to open-source projects!  
 
 ---
+<!--
 ## 📈 GitHub Stats  
 
 <p align="center">
@@ -127,6 +128,7 @@ I enjoy solving coding challenges and contributing to open-source projects!
 </p>
 
 ---
+-->
 
 ## 💬 Let's Talk!
 

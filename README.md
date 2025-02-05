@@ -80,7 +80,7 @@ I believe in building **scalable, high-performance solutions** that solve real-w
 ### 📚 [Online Book Store](#)
 An e-commerce platform for buying books, featuring seamless communication between frontend and backend.
 
-![Online Book Store](https://via.placeholder.com/600x300/00308F/ffffff?text=Online+Book+Store)
+![Online Book Store](https://github.com/saamirkc/backendbookstore)
 
 
 **Key Features**:
@@ -99,7 +99,7 @@ An e-commerce platform for buying books, featuring seamless communication betwee
 ### 📝 [Quiz Web Application](#)
 A dynamic and interactive quiz platform for real-time quiz sessions and secure user management.
 
-![Quiz Web Application](https://via.placeholder.com/600x300/00308F/ffffff?text=Quiz+Web+Application)
+![Quiz Web Application](https://github.com/saamirkc/Examportalbackend)
 
 **Key Features**:
 - **JWT Authentication** for secure user management and session control.

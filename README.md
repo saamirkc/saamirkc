@@ -1,5 +1,14 @@
-<h1 align="center" style="color:#FF5733;">🚀 Hey there, I'm <span style="color:#FFD700;">Samir K.C.</span> 👋</h1>
-<h3 align="center" style="color:#4CAF50;">💻 Java Backend Developer | Full-Stack Enthusiast 🌟</h3>
+<h1 align="center">
+  🚀 Hey there, I'm 
+  <span style="color: #00308F; font-weight: bold;">Samir K.C.</span>  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Full-Stack+Enthusiast;Spring+Boot+%7C+Angular;Crafting+Secure+Applications" />
+</p>
 
 ---
 
@@ -8,7 +17,7 @@
 I specialize in **Spring Boot**, **RESTful APIs**, and **Full Stack Development**, with a keen interest in **Machine Learning**.  
 
 🌱 **Currently Learning**: Machine Learning  
-💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, Docker  
+💻 **Tech Stack**: Java, Spring Boot, Angular, MySQL, PostgreSQL  
 💬 **Ask Me About**: Backend Development, REST APIs, Java, or Angular!  
 📫 **Reach Me At**: [📩 samir.kc.a20@gmail.com](mailto:samir.kc.a20@gmail.com)  
 
@@ -101,5 +110,9 @@ I'm always open to discussing new opportunities, sharing ideas, or learning abou
 
 <h2 align="center" style="color:#FF5733;">☕ Java Enthusiast | 🚀 Full-Stack Dev</h2>
 <p align="center" style="color:#8B4513;">
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saamirkc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
 </p>

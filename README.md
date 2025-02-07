@@ -142,6 +142,9 @@ I'm always open to discussing new opportunities, sharing ideas, or learning abou
   <a href="mailto:samir.kc.a20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://saamirkc.github.io/personalportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---

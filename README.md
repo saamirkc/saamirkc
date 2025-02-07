@@ -125,6 +125,7 @@ I enjoy solving coding challenges and contributing to open-source projects!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saamirkc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saamirkc&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 ---
